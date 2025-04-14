@@ -1,0 +1,16 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+<?php
+//write php code to demonstrate check date function
+var_dump(checkdate(12,31,-400));
+echo "<br>";
+var_dump(checkdate(2,29,2003));
+echo "<br>";
+var_dump(checkdate(2,29,2004));
+?>
+</body>
+
+</html>
+<p>THIS PROGRAM IS DONE BY KAUSHAL ERP - 154</p>
